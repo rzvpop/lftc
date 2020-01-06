@@ -1,0 +1,16 @@
+integer a = 5;
+boolean b = true;
+char array[10] str = "salut";
+
+read(b);
+
+if(a > b)
+{
+    a++;
+}
+
+while(b != 1)
+{
+    write(b);
+    b--;
+}

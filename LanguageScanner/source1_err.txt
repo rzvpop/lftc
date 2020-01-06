@@ -1,0 +1,18 @@
+integer a = 1;
+boolean b = true;
+char array[10] x = "salut";
+
+read(b);
+
+if(a > b)
+{
+    a++;
+}
+
+while(b != 1)
+{
+    write(b);
+    b--;
+}
+
+a = 13das;
